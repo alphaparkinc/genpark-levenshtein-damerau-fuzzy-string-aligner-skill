@@ -1,0 +1,17 @@
+{
+  "name": "genpark-levenshtein-damerau-fuzzy-string-aligner-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Damerau-Levenshtein Edit Distance & Optimal Transposition String Alignment Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "nlp",
+    "damerau-levenshtein",
+    "fuzzy-matching",
+    "edit-distance"
+  ]
+}
